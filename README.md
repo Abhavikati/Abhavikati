@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer and a recent Computer Science graduate from Texas A&M University.<br>I am constantly improving my skills and currently developing my Python skills<br>I have worked professionally within Java and began my journey in C++ 
+I am a software engineer and a recent Computer Science graduate from Texas A&M University.<br>I am constantly improving my skills and currently developing my Python skills<br>I have worked professionally within Java and began my journey in C++ and currently expanding my knowledge in Python
 
 
 ## 🌐 Socials:
